@@ -7,7 +7,7 @@
 
     <groupId>com.zula</groupId>
     <artifactId>zula-queue-library-ms</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <packaging>jar</packaging>
 
     <name>Zula Queue Library</name>
